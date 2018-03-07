@@ -13,3 +13,6 @@
   
  # Screenshot
    ![Screenshot](CalculatorGUI.PNG)
+   
+ # IDE USED
+   Eclipse Java EE IDE version: Mars.2 (4.5.2)
