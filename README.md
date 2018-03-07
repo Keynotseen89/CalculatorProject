@@ -12,3 +12,4 @@
   of each number and giving them values.
   
  # Screenshot
+   ![Screenshot](CalculatorGUI.PNG)
